@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "[![Actions Status](https://github.com/gabsata/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/gabsata/fullstack-javascript-project-98/actions)",
   "homepage": "https://github.com/gabsata/fullstack-javascript-project-98#readme",
   "bugs": {
@@ -19,6 +19,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
-  
 }
