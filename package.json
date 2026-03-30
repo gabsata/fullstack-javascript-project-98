@@ -15,13 +15,10 @@
   "author": "",
   "main": "index.js",
   "bin": {
-   "brain-games": "bin/brain-games.js",
-   "brain-even": "bin/brain-even.js",
-   "brain-calc": "bin/brain-calc.js"
-    
-    
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js"
   },
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -35,4 +32,3 @@
     "globals": "^17.3.0"
   }
 }
-
